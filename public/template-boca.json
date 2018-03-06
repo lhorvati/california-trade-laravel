@@ -1,0 +1,77 @@
+{
+   "images":[
+      {
+         "path":"http://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/output_devices/dell/monitors/u_series/u2518d/pdp/dell-monitor-u2518d-pdp-hero-504x350.jpg?fmt=png-alpha"
+      }
+   ],
+   "details":[
+      {
+         "name":"SPECIFIKACIJA",
+         "items":[
+            {
+               "name":"Grlo",
+               "value":"SwingTop-Mini"
+            },
+            {
+               "name":"Boja",
+               "value":"White, Gray"
+            },
+            {
+               "name":"Težina",
+               "value":"300g"
+            },
+            {
+               "name":"Visina",
+               "value":"134,8mm"
+            },
+            {
+               "name":"Volumen",
+               "value":"1000ml"
+            }
+         ]
+      },
+      {
+         "name":"CIJENA",
+         "items":[
+            {
+               "name":"Cijena do 100 artikala",
+               "value":"20kn/kom"
+            },
+            {
+               "name":"Cijena za paletu (400 kom)",
+               "value":"po dogovoru"
+            },
+            {
+               "name":"Cijena za više paleta",
+               "value":"po dogovoru"
+            }
+         ]
+      },
+      {
+         "name":"NAČIN PLAĆANJA",
+         "items":[
+            {
+               "name":"Gotovina",
+               "value":"20kn/kom"
+            },
+            {
+               "name":"Kartica",
+               "value":"Maestro Card, VISA, VISA Electron, PayPal"
+            },
+            {
+               "name":"Na rate",
+               "value":"do 12 mjeseci bez kamate"
+            }
+         ]
+      },
+      {
+         "name":"Napomena",
+         "items":[
+            {
+               "name":"",
+               "value":"Neka napomena..."
+            }
+         ]
+      }
+   ]
+}
