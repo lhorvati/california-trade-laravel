@@ -7,11 +7,11 @@
     <meta content="" name="description">
     <meta content="horvaticluka@gmail.com" name="author">
     <meta content="width=device-width; initial-scale=1.0, maximum-scale=1.0" id="meta" name="viewport">
-    <link href="css/main.css" rel="stylesheet">
-    <link href="css/query.css" rel="stylesheet">
-    <link href="css/img-slider.css" rel="stylesheet">
+    <link href="{{ asset('css/main.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/query.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/img-slider.css') }}" rel="stylesheet">
     <!-- Lightbox -->
-    <link href="src/lightbox/css/lightbox.css" rel="stylesheet">
+    <link href="{{ asset('src/lightbox/css/lightbox.css') }}" rel="stylesheet">
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:500,700,900|Open+Sans|Raleway:400,500,900&amp;subset=latin-ext" rel="stylesheet">
   </head>
@@ -30,5 +30,5 @@
   </body>
 </html>
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-<script src="js/script.js" type="text/javascript"></script>
-<script src="src/lightbox/js/lightbox.js"></script>
+<script src="{{ asset('js/script.js') }}" type="text/javascript"></script>
+<script src="{{ asset('src/lightbox/js/lightbox.js') }}"></script>

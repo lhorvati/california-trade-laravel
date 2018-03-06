@@ -1,7 +1,7 @@
-@extends('layout.base');
+@extends('layout.base3')
 
 @section('title')
-  California - Naslovnica
+  California - {{ $article->name }}
 @endsection
 
 @section('body')

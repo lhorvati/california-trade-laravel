@@ -54,7 +54,7 @@
         <p class="footer-text">
           California trade d.o.o. je tvrtka specijalizirana za veleprodaju i maloprodaju staklene ambalaže. Osnovana je 1995. godine i danas je generalni distributer za srednju i južnu Dalmaciju programa tvrtke Vetropack.
         </p>
-        <img alt="California Trade" src="img/california-logo.svg">
+        <img alt="California Trade" src="{{ asset('img/california-logo.svg') }}">
       </div>
       <div class="footer-col">
         <h3 class="footer-title">Matični podatci</h3>

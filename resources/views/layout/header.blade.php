@@ -5,7 +5,7 @@
     <nav class="main-nav">
       <div class="main-nav__logo">
         <a href="/">
-          <img alt="California Trade" src="img/california-logo.svg">
+          <img alt="California Trade" src="{{ asset('img/california-logo.svg') }}">
         </a>
       </div>
       <div class="main-nav__nav mobile-hide">

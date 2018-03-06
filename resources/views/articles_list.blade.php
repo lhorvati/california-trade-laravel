@@ -1,7 +1,7 @@
-@extends('layout.base')
+@extends('layout.base2')
 
 @section('title')
-  California - Naslovnica
+  California - Asortiman
 @endsection
 
 @section('body')

@@ -1,7 +1,7 @@
 @extends('layout.base3')
 
 @section('title')
-  California - Partneri
+  California - Kontakt
 @endsection
 
 @section('body')
